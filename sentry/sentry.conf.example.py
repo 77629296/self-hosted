@@ -264,6 +264,14 @@ SENTRY_FEATURES.update(
             "projects:plugins",
             "projects:rate-limits",
             "projects:servicehooks",
+
+            "organizations:session-replay",
+            "organizations:session-replay-beta-grace",
+            "organizations:session-replay-ga",
+            "organizations:session-replay-sdk",
+            "organizations:session-replay-sdk-errors-only",
+            "organizations:session-replay-ui",
+            "organizations:session-replay-recording-scrubbing"
         )
     }
 )
